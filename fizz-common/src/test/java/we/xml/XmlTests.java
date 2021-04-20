@@ -6,6 +6,11 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 
+/**
+ * XML tests
+ * @author Francis Dong
+ *
+ */
 public class XmlTests {
 
 	private String xmlStr = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" + "<library>\n"
